@@ -1,0 +1,40 @@
+0	KSAE	KSAE-Test
+201	국민대, 히로시마공대	KOOKMIN RACING F-19
+202	한국오토모티브컬리지	Carrozzeria
+203	건국대학교	TEAM K.A.I.
+204	경희대학교	KHARS-F
+205	공주대학교	KUMA
+206	국민대학교	KUST
+207	군산대학교	녹차
+208	금오공과대학교	Automania-Formula Racing Team
+209	단국대학교	Run2X
+210	동국대학교	Team KART
+211	동명대학교	S.E.C - TUF
+212	동아대학교	DASC
+213	명지대학교	Team Of MJ
+214	숭실대학교	SSARA-F
+215	신한대학교	Team SHOT-F
+216	아주대학교	A-FA
+217	아주대학교	A-FA 250
+218	영남대학교	CMDM
+219	영남대학교	YUSAE
+220	울산대학교	Team_Exponential_ENG
+221	울산대학교	TEAM_EXPONETIAL_EVF
+222	인천대학교	INU Racing
+223	인하대학교	I.C.C-F
+224	전북대학교	메카트로닉스
+225	전주대학교	JM-Formula
+226	중앙대학교	NstopO
+227	창원대학교	skid
+228	충남대학교	바퀴네개F
+229	한국오토모티브컬리지	Carrozzeria - E
+230	한라대학교	FLETA Formula
+231	한양대학교	baqu4
+232	한양대학교	RACE
+233	한양대학교	RACE_EV
+234	호서대학교	CHALLENGER
+235	호서대학교	CHALLENGER-J
+236	홍익대학교	LightOn_Formula
+237	국민대학교	KOOKMIN RACING KF-19
+238	금오공대, 단국대, 순천향대, 호서대	Team bcp
+		
