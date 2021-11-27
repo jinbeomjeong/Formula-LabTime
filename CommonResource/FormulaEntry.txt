@@ -1,3 +1,9 @@
+0	Test_Univ.	Test_Team
+101	국민대학교	KOOKMIN RACING KF-21
+102	한국오토모티브컬리지	CARROZZERIA
+103	호서대학교	CHALLENGER
+104	한양대학교	baqu4
+105	공주대학교	KUMA
 106	강원대학교	Team MONSTER
 107	경기대학교	KURC
 108	계명대학교	Speeding
