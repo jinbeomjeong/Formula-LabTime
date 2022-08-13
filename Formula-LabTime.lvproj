@@ -1,8 +1,5 @@
 ﻿<?xml version='1.0' encoding='UTF-8'?>
 <Project Type="Project" LVVersion="20008000">
-	<Property Name="varPersistentID:{62E9657B-78CB-48D7-92C2-513796783F2F}" Type="Ref">/내 컴퓨터/Formula-LabTime_2020/Monitoring/MonitoringVariable.lvlib/SkidpadData</Property>
-	<Property Name="varPersistentID:{A37D4054-3E8D-4BE9-8D62-5B0B6BF9C91E}" Type="Ref">/내 컴퓨터/Formula-LabTime_2020/Monitoring/MonitoringVariable.lvlib/GymkhanaData</Property>
-	<Property Name="varPersistentID:{B2C1D52A-CE50-456D-B96D-A0DE637DC8B0}" Type="Ref">/내 컴퓨터/Formula-LabTime_2020/Monitoring/MonitoringVariable.lvlib/AccerlationData</Property>
 	<Item Name="내 컴퓨터" Type="My Computer">
 		<Property Name="CCSymbols" Type="Str"></Property>
 		<Property Name="IOScan.Faults" Type="Str"></Property>
@@ -27,7 +24,7 @@
 		<Property Name="server.viscripting.showScriptingOperationsInContextHelp" Type="Bool">false</Property>
 		<Property Name="server.viscripting.showScriptingOperationsInEditor" Type="Bool">false</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
-		<Item Name="Formula-LabTime_2020" Type="Folder" URL="..">
+		<Item Name="Formula-LabTime" Type="Folder" URL="..">
 			<Property Name="NI.DISK" Type="Bool">true</Property>
 		</Item>
 		<Item Name="의존성" Type="Dependencies">
@@ -270,12 +267,7 @@
 				<Item Name="Read Delimited Spreadsheet (string).vi" Type="VI" URL="/&lt;vilib&gt;/Utility/file.llb/Read Delimited Spreadsheet (string).vi"/>
 				<Item Name="Read Delimited Spreadsheet.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/file.llb/Read Delimited Spreadsheet.vi"/>
 				<Item Name="Read File+ (string).vi" Type="VI" URL="/&lt;vilib&gt;/Utility/file.llb/Read File+ (string).vi"/>
-				<Item Name="Read From Spreadsheet File (DBL).vi" Type="VI" URL="/&lt;vilib&gt;/Utility/file.llb/Read From Spreadsheet File (DBL).vi"/>
-				<Item Name="Read From Spreadsheet File (I64).vi" Type="VI" URL="/&lt;vilib&gt;/Utility/file.llb/Read From Spreadsheet File (I64).vi"/>
-				<Item Name="Read From Spreadsheet File (string).vi" Type="VI" URL="/&lt;vilib&gt;/Utility/file.llb/Read From Spreadsheet File (string).vi"/>
-				<Item Name="Read From Spreadsheet File.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/file.llb/Read From Spreadsheet File.vi"/>
 				<Item Name="Read Lines From File (with error IO).vi" Type="VI" URL="/&lt;vilib&gt;/Utility/file.llb/Read Lines From File (with error IO).vi"/>
-				<Item Name="Read Lines From File.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/file.llb/Read Lines From File.vi"/>
 				<Item Name="Read PNG File.vi" Type="VI" URL="/&lt;vilib&gt;/picture/png.llb/Read PNG File.vi"/>
 				<Item Name="Search and Replace Pattern.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Search and Replace Pattern.vi"/>
 				<Item Name="Set Bold Text.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Set Bold Text.vi"/>
