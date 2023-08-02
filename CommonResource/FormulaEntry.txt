@@ -1,45 +1,44 @@
-101	국민대학교	KOOKMIN RACING KF-22
-102	국민대학교	KUST
-103	금오공과대학교	Auto-Mania
-104	홍익대학교	GARAGE
-105	경희대학교	KHARS
-106	강원대학교	Team Monster
-107	전주대학교	Jm-F
-108	경기대학교	KURC
-109	계명대학교	SPEEDING
-110	계명대학교	SPEEDING-J
+101	국민대학교	KOOKMIN RACING KEF-23
+102	한양대학교	baqu4
+103	경희대학교	KHARS
+104	동아대학교	동아자동차연구회(DASC)
+105	호서대학교	CHALLENGER
+106	동국대학교	Team KART
+107	강릉원주대학교	GHOST_Formula
+108	강원대학교	아우토반
+109	경기대학교	KURC_F
+110	계명대학교	SPEEDING
 111	공주대학교	KUMA
-112	동아대학교	동아자동차연구회
-113	부경대학교	Team D.O.S
-114	부산대학교	Auto_Lab
-115	부산대학교	Auto_Lab_FP
-116	선문대학교	G90B
-117	신한대학교	Team_SHOT_F
-118	영남이공대학교	CR&DE
-119	인천대학교	INU Racing
-120	전북대학교	메카트로닉스
-121	창원대학교	SKID
-122	충남대학교	바퀴네개F (wheel_4)
-123	한경대학교	Team-SV_Formula
-124	한라대학교	FLETA FORMULA
-125	"한양대, 연세대"	RACE
-126	한양대학교	baqu4
-127	한양사이버대학교	터보 달팽이
-128	홍익대학교	Light_On_C
-129	고려대학교	어울수레
-130	국민대학교	KOOKMIN RACING KEF-22
-131	단국대학교	Run2X
-132	동국대학교	Team KART
-133	명지대학교	T.N.T
-134	서울과학기술대학교	MIP
-135	숭실대학교	SSARA
-136	아주대학교	A-FA
-137	영남대학교	YUSAE_Racing
-138	영남대학교	CMDM
-139	"울산대, 고려대, 호서대"	Team KUHO
-140	중부대학교	J-gear
-141	중앙대학교	NstopO
-142	창원대학교	SKID-E
-143	한양대학교	FOURTOR
-144	호서대학교	CHALLENGER
-145	홍익대학교	Light_On_E
+112	국민대학교	KOOKMIN RACING KF-23
+113	군산대학교	KUMC
+114	금오공과대학교	Auto-Mania Formula racing team
+115	부경대학교	Team D.O.S.
+116	부산대학교	Auto-Lab
+117	부산대학교	Auto-Lab-051
+118	안동대학교	TeamMoto
+119	영남이공대학교	CR&DE
+120	인천대학교	INU Racing
+121	전북대학교	MEKA
+122	창원대학교	SKID
+123	한국오토모티브컬리지	CARROZZERIA
+124	"한양대학교, 한양사이버대학교"	Turbo RACE
+125	홍익대학교	GARAGE
+126	홍익대학교	LightOn_C
+127	계명대학교	SPEEDING_E
+128	고려대학교	어울수레
+129	국민대학교	KUST Rush
+130	단국대학교	Run2X
+131	명지대학교	TNT
+132	서울과학기술대학교	M.I.P
+133	숭실대학교	SSARA-E
+134	아주대학교	A-FA
+135	영남대학교	YUSAE
+136	영남대학교	CMDM
+137	울산대학교	Team_Ekt
+138	중부대학교	J-gear E-F
+139	중앙대학교	NstopO
+140	창원대학교	e-SKID
+141	한양대학교	FOURTOR
+142	"한양대학교, 연세대학교, 건국대학교"	RACE-Clover
+143	한양대학교	RACE_HAN
+144	홍익대학교	LightOn_E
